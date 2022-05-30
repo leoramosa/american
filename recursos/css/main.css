@@ -1322,6 +1322,9 @@ table td {
 .badge.badge-palco {
   background-color: #d35fbc;
 }
+.badge.badge-palco-dos {
+  background-color: #ff0066;
+}
 .badge.badge-general {
   background-color: #ffd42a;
 }
@@ -1353,6 +1356,9 @@ table td {
 
 .legal-palco {
   color: #d35fbc;
+}
+.legal-palco-dos {
+  color: #ff0066;
 }
 .legal-general {
   color: #ffd42a;
